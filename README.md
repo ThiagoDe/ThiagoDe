@@ -20,7 +20,7 @@
 
 - 👨🏻‍💻 I'm FullStack software engineer
 - 🚀  Always working on some project or learning something new! 
-- 🌱 I’m currently brushing my skills in JS
+- 🌱 I’m currently brushing up my skills in JS
 - 💬 Ask me about anything
 - 🎿 Hobbies other than coding : Snowbording🏂., Singing🎤 and Playing the Guitar🎸
 - 📫 How to reach me: t.migli.m@gmail.com
