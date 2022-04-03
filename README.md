@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Thiago](https://github.com/ThiagoDe) 👨‍💻
+### Hi there 👋, I'm [Thiago](https://github.com/ThiagoDe)👨🏻‍💻
 
 <br/>
   <a href="nkedin.com/in/thiago-miglioranzi/" rel="nofollow noreferrer">
