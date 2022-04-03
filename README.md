@@ -26,7 +26,6 @@
 - 📫 How to reach me: t.migli.m@gmail.com
 - 🇧🇷 🇫🇷 🇺🇸 I'm a polyglot
 - 📝 [Resume](https://drive.google.com/file/d/11DJxMU7HIXJHryk8qpfGrNRXY_226psH/view?usp=sharing)
-- <a href="https://drive.google.com/file/d/11DJxMU7HIXJHryk8qpfGrNRXY_226psH/view?usp=sharing" target="_blank">[Resume]</a>
 
 ### 🛠️ Languages and Tools:
 
