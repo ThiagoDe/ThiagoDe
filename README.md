@@ -14,7 +14,7 @@
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" /> -->
   
 ### ✨ About Me
 
@@ -25,7 +25,7 @@
 - 🎿 Hobbies other than coding : Snowbording🏂., Singing🎤 and Playing the Guitar🎸
 - 📫 How to reach me: t.migli.m@gmail.com
 - 🇧🇷 🇫🇷 🇺🇸 I'm a polyglot
-- 📝 [Resume](https://docs.google.com/document/d/1xBLuA7T4YkqoL1yTxHM7S9PzfHSN5cjZ/edit?usp=sharing&ouid=101884291615042106847&rtpof=true&sd=true)
+- 📝 [Resume](https://drive.google.com/drive/folders/1F0LFXjQ5x85hnCq472b8Y2O-IIUd_JtW)
 
 ### 🛠️ Languages and Tools:
 
