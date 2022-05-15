@@ -25,7 +25,7 @@
 - 🎿 Hobbies other than coding: Snowbording🏂  Singing🎤  and Playing the Guitar🎸
 -  🇧🇷 🇫🇷 🇺🇸 I'm a polyglot
 - 📫 How to reach me: t.migli.m@gmail.com
-- 📝 ![Resume](https://drive.google.com/file/d/17uhA8DUhduLNoKofZ6lvUsAdGTjNtMvy/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/17uhA8DUhduLNoKofZ6lvUsAdGTjNtMvy/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
