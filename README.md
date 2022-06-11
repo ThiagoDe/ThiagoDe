@@ -47,3 +47,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDe&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Thiago' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDe)](https://github.com/anuraghazra/github-readme-stats)
+
+
