@@ -3,6 +3,7 @@
   <a href="nkedin.com/in/thiago-miglioranzi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
+  
 <br />
 <br/>
 
