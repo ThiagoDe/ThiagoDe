@@ -45,6 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDe&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Thiago' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDe&theme=radica)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago' GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
