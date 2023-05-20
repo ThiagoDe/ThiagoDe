@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Thiago](https://github.com/ThiagoDe)👨🏻‍💻
 <br/>
-  <a href="https://www.linkedin.com/in/tmigli/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/tmigli/" target="_blank" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;   
 <br />
@@ -17,7 +17,7 @@
 -  🇧🇷 🇫🇷 🇺🇸 I'm a polyglot
 - 📫 How to reach me: t.migli.m@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/19fbHPDBbO-05wSS9ot4oS_2pSNAhrOlr/view?usp=sharing)
-- 🌐 [My Portfolio Website](https://thiago-profile.netlify.app/)
+- 🌐 <a href="https://thiago-profile.netlify.app/" target="_blank">My Portfolio Website</a>
 
 ### 🛠️ Languages and Tools:
 
