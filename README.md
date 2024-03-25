@@ -17,7 +17,7 @@
 -  🇧🇷 🇫🇷 🇺🇸 I'm a polyglot
 - 📫 How to reach me: t.migli.m@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1eK4x2TF518_uGrSutuwhrSE-keN9AQl2/view?usp=sharing)
-- 🌐 <a href="https://thiago-profile.netlify.app/" target="_blank">My Portfolio Website</a>
+- 🌐 <a href="https://code-with-thiago-thiagode.vercel.app/blog" target="_blank">My Portfolio Website</a>
 
 ### 🛠️ Languages and Tools:
 
